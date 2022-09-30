@@ -1,1 +1,11 @@
-{"main":"git-test-2.raml","name":"git test 2","classifier":"raml","tags":[]}
+{
+  "main" : "git-test-2.raml",
+  "name" : "git test 2",
+  "classifier" : "raml",
+  "tags" : [ ],
+  "groupId" : "46e4e36f-9d2a-46f3-9dae-bbede77e6376",
+  "assetId" : "git-test-2",
+  "version" : "1.0.0",
+  "apiVersion" : "",
+  "dependencies" : [ ]
+}
